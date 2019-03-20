@@ -29,3 +29,5 @@ Route::resource('productos', 'ProductosController');
 Route::resource('categorias', 'CategoriasController');
 
 Route::resource('ponencias', 'PonenciaController');
+
+Route::resource('alumnos', 'AlumnosController');
